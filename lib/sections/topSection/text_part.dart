@@ -20,7 +20,7 @@ class TextPart extends StatelessWidget {
         ),
         SizedBox(height: 15),
         Text(
-          'Passionate Programmer, Logically Minded, Quick Learner\nI love exploring and learning new things. \n\nThe only way to keep on doing something is to love what you do. \nIf you have a deep, irrational and unconditional love for what\n you do, you can never give up. ',
+          'Passionate Programmer, Quick Learner \nI love exploring and learning new things. \n\n"The only way to keep on doing something is to love what you do. \nIf you have a deep, irrational and unconditional love for what\n you do, you can never give up" ',
           style: GoogleFonts.karla(
               textStyle: TextStyle(fontSize: 20, color: Colors.grey[600])),
         ),
