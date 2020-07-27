@@ -31,6 +31,7 @@ class DisplayPicture extends StatelessWidget {
             child: CircleAvatar(
               radius: 95,
               backgroundImage: AssetImage('images/myDp-2.jpg'),
+              backgroundColor: Colors.grey,
             ),
           ),
         ),
@@ -77,4 +78,3 @@ class DisplayPicture extends StatelessWidget {
     );
   }
 }
-
